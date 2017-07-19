@@ -1754,8 +1754,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä ecocoin-osoite (esim. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Syötä ecocoin-osoite (esim. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1898,8 +1898,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Osoite, johon maksu lähetetään (esim. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Osoite, johon maksu lähetetään (esim. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1928,8 +1928,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä ecocoin-osoite (esim. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Syötä ecocoin-osoite (esim. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
 </context>
 <context>
@@ -1952,8 +1952,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2016,8 +2016,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i) </translation>
+        <source>The address the message was signed with (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx) </translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2032,8 +2032,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä ecocoin-osoite (esim. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Syötä ecocoin-osoite (esim. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="-2"/>

@@ -1749,8 +1749,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>输入黑币地址(例如：8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>输入黑币地址(例如：6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>收款人地址(例：8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>收款人地址(例：6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1923,8 +1923,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>输入一个黑币地址 (例：8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>输入一个黑币地址 (例：6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
 </context>
 <context>
@@ -1947,8 +1947,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>用来签名该消息的地址(例： 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>用来签名该消息的地址(例： 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2011,8 +2011,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>用来签名该消息的黑币地址(例： 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>用来签名该消息的黑币地址(例： 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2027,8 +2027,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>输入黑币地址(例： 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>输入黑币地址(例： 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="-2"/>

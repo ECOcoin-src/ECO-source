@@ -33,24 +33,14 @@
    <item>
     <layout class="QVBoxLayout" name="verticalLayout_2">
      <item>
-      <spacer name="verticalSpacer_2">
-       <property name="orientation">
-        <enum>Qt::Vertical</enum>
-       </property>
-       <property name="sizeHint" stdset="0">
-        <size>
-         <width>20</width>
-         <height>40</height>
-        </size>
-       </property>
-      </spacer>
-     </item>
-     <item>
       <layout class="QHBoxLayout" name="horizontalLayout">
        <item>
         <widget class="QLabel" name="label">
          <property name="cursor">
           <cursorShape>IBeamCursor</cursorShape>
+         </property>
+         <property name="toolTip">
+          <string notr="true"/>
          </property>
          <property name="text">
           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ecocoin&lt;/span&gt; version&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
@@ -65,8 +55,11 @@
          <property name="cursor">
           <cursorShape>IBeamCursor</cursorShape>
          </property>
+         <property name="toolTip">
+          <string notr="true"/>
+         </property>
          <property name="text">
-          <string notr="true">0.3.666-beta</string>
+          <string notr="true">1.0.1.8-g-beta</string>
          </property>
          <property name="textInteractionFlags">
           <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -89,32 +82,15 @@
       </layout>
      </item>
      <item>
-      <widget class="QLabel" name="copyrightLabel">
-       <property name="cursor">
-        <cursorShape>IBeamCursor</cursorShape>
-       </property>
-       <property name="text">
-        <string>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2016 The ecocoin developers</string>
-       </property>
-       <property name="textInteractionFlags">
-        <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
-       </property>
-      </widget>
-     </item>
-     <item>
       <widget class="QLabel" name="label_2">
        <property name="cursor">
         <cursorShape>IBeamCursor</cursorShape>
        </property>
+       <property name="toolTip">
+        <string notr="true"/>
+       </property>
        <property name="text">
-        <string>
-This is experimental software.
-
-Distributed under the MIT/X11 software license, see the accompanying file COPYING or &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
-
-This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) and cryptographic software written by Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) and UPnP software written by Thomas Bernard.</string>
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;This is experimental software.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;www.ecocoin.info&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;www.ecocoin.info&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;For information about software license, see the accompanying file COPYING and&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;a href=&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;License on web&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;This product includes software developed by the OpenSSL and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
        </property>
        <property name="textFormat">
         <enum>Qt::RichText</enum>

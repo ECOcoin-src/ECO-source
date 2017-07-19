@@ -1756,8 +1756,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse ecocoin (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Entrer une adresse ecocoin (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1900,8 +1900,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresse destinataire du paiement ( ex : 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Adresse destinataire du paiement ( ex : 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1930,8 +1930,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse ecocoin (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Entrer une adresse ecocoin (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
 </context>
 <context>
@@ -1954,8 +1954,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse ecocoin (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Entrer une adresse ecocoin (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2018,8 +2018,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>L&apos;adresse avec laquelle le message à été signé (ex: 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>L&apos;adresse avec laquelle le message à été signé (ex: 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2034,8 +2034,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ecocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse ecocoin (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a ecocoin address (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</source>
+        <translation>Entrer une adresse ecocoin (e.g. 6dpZqgYxxxRoEdqYk3QsAqFckyf9pRxxxx)</translation>
     </message>
     <message>
         <location line="-2"/>
